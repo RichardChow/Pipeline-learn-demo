@@ -17,6 +17,7 @@ pipeline {
             steps {
                 println "Deploy" 
                 println "pzhou tag"
+                println "add new"
             }
         }
     }
